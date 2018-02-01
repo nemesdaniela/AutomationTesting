@@ -1,5 +1,5 @@
 package helpers;
 
-public class gggggggContactPageHelper {
+public class gggggggaaaContactPageHelper {
 
 }
